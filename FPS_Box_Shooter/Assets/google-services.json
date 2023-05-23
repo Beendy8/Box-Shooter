@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049837473790",
+    "firebase_url": "https://loginregist-8590f-default-rtdb.firebaseio.com",
+    "project_id": "loginregist-8590f",
+    "storage_bucket": "loginregist-8590f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049837473790:android:d728301f7c9baa54f93aaf",
+        "android_client_info": {
+          "package_name": "com.Bendy.RegistrLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049837473790-nti5cuingfh7eog3h6pnadrl3jpo8d6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdnxXj1rUjr6NFuSeYX2beFBjyLbmkZSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049837473790-nti5cuingfh7eog3h6pnadrl3jpo8d6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
